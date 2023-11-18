@@ -1,5 +1,6 @@
 # Interactive Data Visualization and Augmented Reality of Urban Photovoltaic
-The same project is also backed up at ETH Arch Chair's repo:
+This is not the final version. For this version, the arrow and color indicators of energy trade module show up sequentially, while the newest version has those happen at the hour. 
+The latest version is at ETH Arch Chair's repo:
 https://github.com/architecture-building-systems/FCL-Exhibition-2023-ARUnity
 
 ## Introduction  
@@ -229,7 +230,7 @@ The following table summarizes the code for Zurich case, the Sinagpore case shar
 ![Zurich Energy Trade](RESULTS/ZurichEnergyTrade.gif)   
 
 **Singapore Energy Trade**   
-![Singapore Energy Trade](RESULTS/SingEnergyTrade.gif)   
+![Singapore Energy Trade](RESULTS/SingaporeEnergyTrade.gif)   
 
 The social economics module illustrates energy trading among buildings in the area over the course of a day. When a building's PV panel generates surplus electricity, it trades it with neighboring buildings. Buildings turn blue when selling excess energy, displaying the amount in kWh above them, while those purchasing electricity turn yellow, showing the electricity they receive. Arrows indicate the trading direction and amount (indicated by arrow width).   
 
