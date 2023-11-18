@@ -1,4 +1,7 @@
 # Interactive Data Visualization and Augmented Reality of Urban Photovoltaic
+The same project is also backed up at ETH Arch Chair's repo:
+https://github.com/architecture-building-systems/FCL-Exhibition-2023-ARUnity
+
 ## Introduction  
 
 This project is an iPad mobile app created for the Future Cities Lab Exhibition 2023 at ETH Zurich, aiming to visualize influencial data of photovoltaic power usage using augmented reality. It utilizes 3D printed models of two sites, Zurich and Singapore, and is composed of three key modules: energy demand(cooling and heating), mobility flow (both vehicle and non-vehicle), and social economics(energy trading within these regions). 
@@ -226,7 +229,7 @@ The following table summarizes the code for Zurich case, the Sinagpore case shar
 ![Zurich Energy Trade](RESULTS/ZurichEnergyTrade.gif)   
 
 **Singapore Energy Trade**   
-![Singapore Energy Trade](RESULTS/SingaporeEnergyTrade.gif)   
+![Singapore Energy Trade](RESULTS/SingEnergyTrade.gif)   
 
 The social economics module illustrates energy trading among buildings in the area over the course of a day. When a building's PV panel generates surplus electricity, it trades it with neighboring buildings. Buildings turn blue when selling excess energy, displaying the amount in kWh above them, while those purchasing electricity turn yellow, showing the electricity they receive. Arrows indicate the trading direction and amount (indicated by arrow width).   
 
